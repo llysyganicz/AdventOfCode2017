@@ -9,7 +9,7 @@
 | 5   | [Maze of Twisty Trampolines, All Alike][Day5]          | [&#10004;](./Day5/Part1.fsx) | [&#10004;](./Day5/Part2.fsx) |
 | 6   | [Memory Reallocation][Day6]                            | [&#10004;](./Day6/Part1.fsx) | [&#10004;](./Day6/Part2.fsx) |
 | 7   | [Recursive Circus][Day7]                               | [&#10004;](./Day7/Part1.fsx) | &#10006;                     |
-| 8   | [I Heard You Like Registers][Day8]                     | [&#10004;](./Day8/Part1.fsx) | &#10006;                     |
+| 8   | [I Heard You Like Registers][Day8]                     | [&#10004;](./Day8/Part1.fsx) | [&#10004;](./Day8/Part2.fsx) |
 
 [Day1]: https://adventofcode.com/2017/day/1
 [Day2]: https://adventofcode.com/2017/day/2
