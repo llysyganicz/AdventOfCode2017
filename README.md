@@ -12,6 +12,7 @@
 | 8   | [I Heard You Like Registers][Day8]            | [&#10004;](./Day8/Part1.fsx)  | [&#10004;](./Day8/Part2.fsx)  |
 | 9   | [Stream Processing][Day9]                     | [&#10004;](./Day9/Part1.fsx)  | [&#10004;](./Day9/Part2.fsx)  |
 | 10  | [Knot Hash][Day10]                            | [&#10004;](./Day10/Part1.fsx) | &#10006;                      |
+| 11  | [Hex Ed][Day10]                               | [&#10004;](./Day11/Part1.fsx) | &#10006;                      |
 
 [Day1]: https://adventofcode.com/2017/day/1
 [Day2]: https://adventofcode.com/2017/day/2
@@ -23,3 +24,4 @@
 [Day8]: https://adventofcode.com/2017/day/8
 [Day9]: https://adventofcode.com/2017/day/9
 [Day10]: https://adventofcode.com/2017/day/10
+[Day11]: https://adventofcode.com/2017/day/11
