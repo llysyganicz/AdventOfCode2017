@@ -4,7 +4,7 @@
 |----:|:----------------------------------------------|:-----------------------------:|:-----------------------------:|
 | 1   | [Inverse Captcha][Day1]                       | [&#10004;](./Day1/Part1.fsx)  | [&#10004;](./Day1/Part2.fsx)  |
 | 2   | [Corruption Checksum][Day2]                   | [&#10004;](./Day2/Part1.fsx)  | [&#10004;](./Day2/Part2.fsx)  |
-| 3   | [Spiral Memory][Day3]                         | [&#10004;](./Day3/Part1.fsx)  | &#10006;                      |
+| 3   | [Spiral Memory][Day3]                         | [&#10004;](./Day3/Part1.fsx)  | [&#10004;](./Day3/Part2.fsx)  |
 | 4   | [High-Entropy Passphrases][Day4]              | [&#10004;](./Day4/Part1.fsx)  | [&#10004;](./Day4/Part2.fsx)  |
 | 5   | [Maze of Twisty Trampolines, All Alike][Day5] | [&#10004;](./Day5/Part1.fsx)  | [&#10004;](./Day5/Part2.fsx)  |
 | 6   | [Memory Reallocation][Day6]                   | [&#10004;](./Day6/Part1.fsx)  | [&#10004;](./Day6/Part2.fsx)  |
